@@ -12,11 +12,11 @@ export default function Head () {
             <label> support@ecommerce.com</label>
           </div>
           <div className='right row RText'>
-            <label>Theme FAQ"s</label>
-            <label>Need Help?</label>
-            <span><i class="fa fa-flag" aria-hidden="true"></i></span>
-            <label>IND</label>
-            <span><i class="fa fa-inr" aria-hidden="true"></i></span>
+            <label>FAQ"s</label>
+            <label>Help</label>
+            <span><i class="fa-brands fa-font-awesome"></i></span>
+            <label>EN</label>
+            <span>₹ </span>
             <label>INR</label>
           </div>
         </div>
@@ -25,4 +25,3 @@ export default function Head () {
   )
 }
 
-// export default Head
